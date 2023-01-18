@@ -1,6 +1,6 @@
 import React from 'react';
 import calculate from '../logic/calculate';
-// eslint-disable-next-line react/prefer-stateless-function
+
 class Calculator extends React.Component {
   constructor(props) {
     super(props);
@@ -36,7 +36,7 @@ class Calculator extends React.Component {
           <button className="buttons" type="button" onClick={this.clickHandle}>7</button>
           <button className="buttons" type="button" onClick={this.clickHandle}>8</button>
           <button className="buttons" type="button" onClick={this.clickHandle}>9</button>
-          <button className="buttons operator" type="button" onClick={this.clickHandle}>×</button>
+          <button className="buttons operator" type="button" onClick={this.clickHandle}>x</button>
         </div>
         <div className="num-symb">
           <button className="buttons" type="button" onClick={this.clickHandle}>4</button>
