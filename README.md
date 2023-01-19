@@ -58,7 +58,8 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
+
+- **[Handles basic mathematics operations]**
 - **[key_feature_2]**
 - **[key_feature_3]**
 
