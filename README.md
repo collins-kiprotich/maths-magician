@@ -60,7 +60,7 @@
 
 
 - **[Handles basic mathematics operations]**
-- **[key_feature_2]**
+- **[Displays Mathematics quotes]**
 - **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
