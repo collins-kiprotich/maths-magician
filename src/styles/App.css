@@ -62,7 +62,6 @@
 .navigation ul a {
   text-decoration: none;
   font-size: 1.2rem;
-  color: inherit;
   background-color: rgb(247, 118, 5);
   color: white;
   padding: 5px 10px;
@@ -72,12 +71,12 @@
 }
 
 .navigation ul a:hover {
-   opacity: 0.8;
+  opacity: 0.8;
 }
 
 .navigation ul a:active {
-    opacity: 0.4;
- }
+  opacity: 0.4;
+}
 
 .CalcPage {
   display: flex;
